@@ -4,6 +4,10 @@ body {
   background-color: white;
   display: flex;
   align-items: start;
+  background-image: url(https://c1.wallpaperflare.com/preview/830/150/561/sackcloth-sackcloth-textured-laptop-ipad.jpg);
+  background-size: cover;
+  background-repeat: repeat;
+  
 }
 
 div {
@@ -31,8 +35,8 @@ div {
 
 .editing {
   background: white;
-  color: #172b4d !important;
-  box-shadow:inset 0px 0px 0px 2px #0279bf;
+  color: black !important;
+  box-shadow:inset 0px 0px 0px 2px black;
 }
 
 .editing:hover {
@@ -50,6 +54,8 @@ div {
   margin: 10px 5px;
   position: relative;
   background: #fcc603;
+
+  
 }
 
 
